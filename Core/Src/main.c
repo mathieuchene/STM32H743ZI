@@ -34,7 +34,7 @@
 
 /* Private define ------------------------------------------------------------*/
 /* USER CODE BEGIN PD */
-#define BUFFERLENGTH 0x10FFF
+#define BUFFERLENGTH 0xFFFF
 /* USER CODE END PD */
 
 /* Private macro -------------------------------------------------------------*/
